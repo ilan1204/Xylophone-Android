@@ -1,4 +1,4 @@
-package com.londonappbrewery.xylophonepm;
+package net.sagital.xylophonepm;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

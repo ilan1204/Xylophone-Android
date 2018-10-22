@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest package="com.londonappbrewery.xylophonepm"
+<manifest package="net.sagital.xylophonepm"
           xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
@@ -10,7 +10,7 @@
         android:theme="@style/AppTheme">
 
         <activity
-            android:name=".MainActivity"
+            android:name="net.sagital.xylophonepm.MainActivity"
             android:screenOrientation="portrait">
 
             <intent-filter>
